@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/connexion/ConnexionBD.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/model/Patient.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/dao/PatientDAO.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/TestPatient.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/interfac/MenuPrincipal.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/interfac/LoginFrame.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/service/PatientService.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/interfac/PatientFrame.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/dao/ConsultationDAO.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/dao/DossierMedicalDAO.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/interfac/RendezVousFrame.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/interfac/FactureFrame.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/service/ConsultationService.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/service/DossierMedicalService.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/service/RendezVousService.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/service/OrdonnanceService.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/model/Consultation.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/interfac/DossierMedicalFrame.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/interfac/ConsultationFrame.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/CabinetMedical/src/model/Facture.java</file>
+        </group>
+    </open-files>
+</project-private>
