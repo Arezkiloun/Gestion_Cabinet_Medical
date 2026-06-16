@@ -33,7 +33,7 @@ Le projet intègre également un système d’authentification avec gestion des 
 
 Les captures d’écran et la présentation visuelle de l’application sont disponibles dans ma publication LinkedIn :
 
-[Voir la publication LinkedIn](TON_LIEN_LINKEDIN)
+[Voir la publication LinkedIn](www.linkedin.com/in/arezki-lounis-4849b0369)
 
 ## Objectif du projet
 
