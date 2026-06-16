@@ -33,7 +33,7 @@ Le projet intègre également un système d’authentification avec gestion des 
 
 Les captures d’écran et la présentation visuelle de l’application sont disponibles dans ma publication LinkedIn :
 
-[Voir la publication LinkedIn](www.linkedin.com/in/arezki-lounis-4849b0369)
+[Voir la publication LinkedIn](https://www.linkedin.com/posts/arezki-lounis-4849b0369_java-sql-javaswing-ugcPost-7472698858620469248-d7kB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFtzOaQBeknFb0KN1qmy7g0XOjPjxozr-9k)
 
 ## Objectif du projet
 
